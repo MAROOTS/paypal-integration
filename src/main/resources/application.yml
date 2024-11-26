@@ -1,0 +1,7 @@
+paypal:
+  client-id: AZZ1hSgfDv43k7IC_kKNh3WXo2ZcLv8b1NkPNZmvu6UY3Nbh_jq7gz-H1H-18DrOwLXANvF1vaZEME2i
+  secret: EM-UMJb3WcLlilaJeSdCWYNAfl2UBbsp7mLz1CbeAlsZZwV9MAGY3yYvwfxr9eV5UWF3fxerEalzPeeN
+  mode: sandbox
+
+server:
+  port: 8081
